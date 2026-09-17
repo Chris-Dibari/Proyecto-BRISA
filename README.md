@@ -1,7 +1,5 @@
-# Proyecto-BRISA
+# Proyecto-BRISA-Cádiz
 Repositorio general de investigación y contribuciones científicas desarrolladas dentro del proyecto BRISA.
-
-# 🚀 Proyecto BRISA-Cádiz
 
 - Campaña científica internacional sobre dinámica atmosférica costera y modelización de brisas marinas.
 
