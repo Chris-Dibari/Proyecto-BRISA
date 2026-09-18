@@ -11,10 +11,6 @@ meteorológicas costeras del Golfo de Cádiz.
 Mi rol se centra en la recopilación de datos mediante radiosondeos, 
 perfiles de playa y trabajo de campo.
 
-
-Mi contribución incluyó trabajo de campo, adquisición de datos
-y apoyo en actividades de observación atmosférica.
-
 **Contribución relacionada presentada en:**
 
 EMS Annual Meeting 2026 (Utrecht, Netherlands)
